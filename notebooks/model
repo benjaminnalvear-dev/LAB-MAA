@@ -2,8 +2,8 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	eta2 [label=eta2]
 	eta1 [label=eta1]
+	eta2 [label=eta2]
 	node [shape=box style=""]
 	MntFishProducts [label=MntFishProducts]
 	MntFruits [label=MntFruits]
